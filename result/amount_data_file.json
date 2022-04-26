@@ -1,0 +1,452 @@
+{
+    "0": {
+        "product_id": "1304",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "1": {
+        "product_id": "1305",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "2": {
+        "product_id": "1307",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "3": {
+        "product_id": "1310",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "4": {
+        "product_id": "1314",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "5": {
+        "product_id": "1315",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "6": {
+        "product_id": "1318",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "7": {
+        "product_id": "1321",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "8": {
+        "product_id": "1546",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "9": {
+        "product_id": "3626",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "10": {
+        "product_id": "3627",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "11": {
+        "product_id": "3628",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "12": {
+        "product_id": "3629",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "13": {
+        "product_id": "4246",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "14": {
+        "product_id": "4248",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "15": {
+        "product_id": "4250",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "16": {
+        "product_id": "4252",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "17": {
+        "product_id": "4254",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "18": {
+        "product_id": "4257",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "19": {
+        "product_id": "4258",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "20": {
+        "product_id": "4259",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "21": {
+        "product_id": "4263",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "22": {
+        "product_id": "4264",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "23": {
+        "product_id": "4266",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "24": {
+        "product_id": "4267",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "25": {
+        "product_id": "4269",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "26": {
+        "product_id": "4270",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "27": {
+        "product_id": "4271",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "28": {
+        "product_id": "4272",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "29": {
+        "product_id": "4274",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "30": {
+        "product_id": "4275",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "31": {
+        "product_id": "4281",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "32": {
+        "product_id": "4283",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "6",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "33": {
+        "product_id": "4284",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "34": {
+        "product_id": "4299",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "30",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "35": {
+        "product_id": "4912",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "11",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "36": {
+        "product_id": "5269",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "76",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "37": {
+        "product_id": "6269",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "38": {
+        "product_id": "6575",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "39": {
+        "product_id": "6576",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "40": {
+        "product_id": "6577",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "41": {
+        "product_id": "6579",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "42": {
+        "product_id": "6580",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "43": {
+        "product_id": "7178",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "15",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "44": {
+        "product_id": "7924",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "4866",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "45": {
+        "product_id": "8208",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "46": {
+        "product_id": "8274",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "47": {
+        "product_id": "8276",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "48": {
+        "product_id": "8277",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    },
+    "49": {
+        "product_id": "8278",
+        "multiple_sku_update_list": [
+            {
+                "inventory": "0",
+                "sku_code": "123def"
+            }
+        ]
+    }
+}
